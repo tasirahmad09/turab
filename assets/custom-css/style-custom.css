@@ -1,0 +1,21 @@
+html{
+    scroll-behavior: smooth;
+}
+
+
+
+.whatsapp{
+    position: fixed !important;
+    bottom: 30px;
+    left: 20px;
+    z-index: 999;
+}
+.package-img{
+    border-radius: 20px;
+}
+.testmonial-caption{
+    font-size: 13px;
+}
+.contact-cont h4{
+    font-size: 25px !important;
+}
